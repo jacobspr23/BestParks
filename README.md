@@ -1,4 +1,6 @@
 # BestParks
+group 37
+This project is meant to determine the best neighborhood in Pittsburgh to build a park
 The Rangers
 
 Jacob Sprague: jas744@pitt.edu, Tahj Jones: tac212@pitt.edu
