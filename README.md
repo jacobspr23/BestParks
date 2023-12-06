@@ -9,6 +9,6 @@ Park Outline Data: https://data.wprdc.org/dataset/allegheny-county-parks-outline
 
 Arrest Data: https://data.wprdc.org/dataset/arrest-data/resource/e03a89dd-134a-4ee8-a2bd-62c40aeebc6f?inner_span=True
 
-Arrest Data.ipynb (1): Jacob
+Arrest Data(1).ipynb: Jacob
 Air quality.ipynb: split up
 Park data: Tahj
