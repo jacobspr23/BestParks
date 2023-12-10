@@ -17,4 +17,4 @@ Air quality.ipynb: split up
 
 Park data: Tahj
 
-full presentation in file: final notebook
+full presentation in file: Final Notebook.ipynb
